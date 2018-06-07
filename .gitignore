@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.local
+.gnupg
+.cache
+.plotly
+.cufflinks
+.ipython
+.jupyter
+__pycache__
